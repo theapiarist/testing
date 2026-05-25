@@ -11,12 +11,14 @@ My honey is extracted and carefully stored until jarring. It is only jarred to o
 
 If you have a jar of either my *Collessie* or *St Andrews* honey and want to know more about it then check the label and enter the unique 5 character batch number below.
 
+{{< rawhtml >}}
 <DIV>
 <FORM method="post" action="https://localhoney.theapiarist.org/show" enctype="multipart/form-data">
 <INPUT name="id" TYPE="text" LENGTH=5 VALUE="" REQUIRED="required" />
 <INPUT name="press" TYPE='submit' VALUE='Submit' />
 </FORM>
 </DIV>
+{{< /rawhtml >}}
 
 Batch numbers are case insensitive. 
 
