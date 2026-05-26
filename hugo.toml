@@ -10,7 +10,7 @@ disableKinds = [ "section", "taxonomy", "term", "RSS", "robotsTXT" ]
 unsafe = 'true'
 
 [params] 
-copyright = "©️  David Evans (Lochaber Bees & Honey)"
+copyright = "©️  2022 - 2026 David Evans (Lochaber Bees & Honey)"
 description = "Local honey and bees for sale"
 favicon = "/images/icons/favicon.png"
 images = [ "/images/lochaber/220602-01.jpg" ]

@@ -1,6 +1,6 @@
 # deploy script from here: https://onebite.dev/move-my-hugo-site-from-github-pages-to-netlify/ 
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
-WORKINGDIR='/Users/dje/Documents/Websites/Hugo/testing';
+WORKINGDIR='/Users/dje/Documents/Websites/Hugo/lochaberbees.co.uk';
 
 cd $WORKINGDIR
 
