@@ -1,4 +1,23 @@
-baseURL = 'https://example.org/'
-locale = 'en-us'
-title = 'My New Hugo Project'
+baseURL = '/'
+locale = 'en-GB'
+title = 'Lochaber Bees and Honey'
 theme = 'hugo-scroll'
+disableKinds = [ "section", "taxonomy", "term", "RSS", "robotsTXT" ]
+
+[markup]
+[markup.goldmark]
+[markup.goldmark.renderer]
+unsafe = 'true'
+
+[params] 
+copyright = "©️  David Evans (Lochaber Bees & Honey)"
+description = "Local honey and bees for sale"
+favicon = "/images/icons/favicon.png"
+images = [ "/images/lochaber/220602-01.jpg" ]
+title = "Lochaber Bees and Honey"
+#hidedesignbyline = true
+goatcounter = "lochaberbees"
+
+[params.meta]
+keywords = "bees, honey, beekeeping, queens, theapiarist, start beekeeping, blog, workers, drones"
+
